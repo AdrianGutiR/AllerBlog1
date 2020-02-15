@@ -1,0 +1,5 @@
+Curso de Git y GitHub - Platzi
+Febrero 2020
+
+Adrian es ingeniero electronico de la Universidad Nacional de Colombia 
+y hoy solo sabe programar en Python
