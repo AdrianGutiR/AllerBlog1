@@ -1,8 +1,5 @@
 Curso de Git y GitHub - Platzi
 Febrero 2020
 
-Adrian es ingeniero electronico de la Universidad Nacional de Colombia 
-y hoy solo sabe programar en Python
-ahh y tambien es PMP
-
-Es el CEO de Aller Studios y de tres empresas mas.
+Adrian es ingeniero electronico de la Universidad Nacional de Colombia y hoy solo sabe programar en Python
+La idea de este año es ser productor de videojuegos.
